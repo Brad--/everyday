@@ -1,4 +1,4 @@
-# Project Title
+# everyday
 
 Everyday is a progressive web application focused on a simple user experience. Its purpose is to help users keep track of things they want to do every day. No reminders, no nudging. This is designed to aid my personal workflow, and it is not intended to influence its own usage.
 
@@ -6,79 +6,62 @@ Everyday is a progressive web application focused on a simple user experience. I
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-
-:construction: The following link works, but the section a placeholder for now. :construction:
-See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+#### Languages and Technologies
+###### A useful list of resources
+
+[Python 3.7.1](https://www.python.org/): The language running the web server
+
+[Flask](http://flask.pocoo.org/docs/1.0/): The web framework
 
 ### Work Environment
 
 This is more of a suggestion and some organization of things I like,
 
-#### Languages and Technologies
-###### A useful list of resources
-[Python 3.7.1](https://www.python.org/)
+#### Linter
 
-[Flask](http://flask.pocoo.org/docs/1.0/)
+[Flake8](http://flake8.pycqa.org/en/latest/index.html) :construction: This will hopefully have CI soon tm  :construction:
 
 #### Editor (optional)
-[Visual Studio Code](https://code.visualstudio.com/): This is the editor I use. I recommend its [Python package](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
 
-#### Linter
-[Flake8](http://flake8.pycqa.org/en/latest/index.html) :construction: This will hopefully have CI soon tm  :construction:
+[Visual Studio Code](https://code.visualstudio.com/): This is the editor I use. I recommend its [Python package](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
 
 ### Installing
 
-Make sure your prerequisites are installed and run the following command to install the python dependencies:
+Make sure the prerequisites are installed and run the following command to install the python dependencies:
 
 ```
 pip install
 ```
 
-And repeat
+To run the webserver locally run the following command in the `everyday-webserver` directory:
 
 ```
-until finished
+./run.sh
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+The webserver should now be running at `http://127.0.0.1:5000/`
 
-## Running the tests
+## Running unit tests
 
-Explain how to run the automated tests for this system
+:construction: todo :construction:
 
-### Break down into end to end tests
+### End to End tests
 
-Explain what these tests test and why
+:construction: todo :construction:
 
-```
-Give an example
-```
+### Coding Style
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+This project is linted with [Flake8](http://flake8.pycqa.org/en/latest/index.html)
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+:construction: todo :construction:
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
