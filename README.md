@@ -2,32 +2,33 @@
 
 Everyday is a progressive web application focused on a simple user experience. Its purpose is to help users keep track of things they want to do every day. No reminders, no nudging. This is designed to aid my personal workflow, and it is not intended to influence its own usage.
 
-## Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+## Prerequisites
 
 What things you need to install the software and how to install them
 
-#### Languages and Technologies
-###### A useful list of resources
+### Languages and Technologies
 
 [Python 3.7.1](https://www.python.org/): The language running the web server
 
 [Flask](http://flask.pocoo.org/docs/1.0/): The web framework
 
-### Work Environment
+
+## Work Environment
 
 This is more of a suggestion and some organization of things I like,
 
-#### Linter
+### Linter
 
-[Flake8](http://flake8.pycqa.org/en/latest/index.html) :construction: This will hopefully have CI soon tm  :construction:
+[Flake8](http://flake8.pycqa.org/en/latest/index.html)
 
-#### Editor (optional)
+### Editor (optional)
 
 [Visual Studio Code](https://code.visualstudio.com/): This is the editor I use. I recommend its [Python package](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
+
 
 ### Installing
 
@@ -49,11 +50,11 @@ The webserver should now be running at `http://127.0.0.1:5000/`
 
 :construction: todo :construction:
 
-### End to End tests
+## End to End tests
 
 :construction: todo :construction:
 
-### Coding Style
+## Coding Style
 
 This project is linted with [Flake8](http://flake8.pycqa.org/en/latest/index.html)
 
@@ -67,13 +68,9 @@ This project is linted with [Flake8](http://flake8.pycqa.org/en/latest/index.htm
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## Contributors
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Bradley Smith** - [PurpleBooth](https://github.com/Brad--)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -84,4 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * etc
-
