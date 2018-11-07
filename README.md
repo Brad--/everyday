@@ -2,6 +2,20 @@
 
 Everyday is a progressive web application focused on a simple user experience. Its purpose is to help users keep track of things they want to do every day. No reminders, no nudging. This is designed to aid my personal workflow, and it is not intended to influence its own usage.
 
+## Mantra
+
+Here is a list of statements I wish to be true about this application. To be used as a reminder.
+
+* **Quiet** - An aim to disengage is key. Does not attempt to keep the user engaged longer than is necessary.
+* **Progressive** - Works for every user, regardless of browser choice because it's built with progressive enhancement as a core tenet.
+* **Responsive** - Fits any form factor: desktop, mobile, tablet, or whatever is next.
+* **Connectivity independent** - Enhanced with service workers to work offline or on low-quality networks.
+* **App-like** - Feels like an app, because the app shell model separates the application functionality from application content.
+* **Installable** - Allows users to add apps they find most useful to their home screen without the hassle of an app store.
+* **Linkable** - Easily share the application via URL, does not require complex installation.
+
+> Largely inspired by the ideas in [What is a Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
